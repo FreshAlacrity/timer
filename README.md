@@ -1,2 +1,3 @@
-# timer
- A simple focus timer
+# Focused Timer
+
+ A simple, focused timer for doing pomodoro units etc.
